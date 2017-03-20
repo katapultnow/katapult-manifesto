@@ -1,4 +1,4 @@
-#katapult:FUTURE - A MANIFESTO
+# katapult:FUTURE - A MANIFESTO
 
 Abraham Lincoln supposedly said that "the best way to predict your future is to create it". **We are by no means setting out to predicting a specific future, but we are all set onto describing one worth creating.**
 
@@ -57,8 +57,8 @@ We believe that the purpose of economic systems is to match supply and demand.
 
 ## Milk and Honey
 
->
-Although we have stated so before, we want to make it absolutely clear that this is not to be seen as a prediction. We simply extrapolate assumptions and shine the best possible light onto what we find where the extrapolations meet.
+> Although we have stated so before, we want to make it absolutely clear that this is not to be seen as a prediction. We simply extrapolate assumptions and shine the best possible light onto what we find where the extrapolations meet.
+
 
 We will have handed over much of the organisation of the world to machines. This essentially has replaced all other forms of economic systems. This works because energy is being produced from sustainable sources, close to where it is consumed at zero cost. It also works because machines have not only surpassed human motor-skills and power but also much of our cognitive skills. And above all the machines not only have a full index of all resources on the planet, but also have the relevant information on the demand by a ubiquitous network of sensors. 
 

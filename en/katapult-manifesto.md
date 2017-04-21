@@ -15,54 +15,59 @@ But before we set out to describe how we see the best possible future, we need t
 
 ### Moral/Ethical Foundations
 
-- ??? We believe 
+We believe in the categorical imperative of Kant: "Act always on that maxim which you can, at the same time, will should be universal law."
+
+### Equality
+
+We believe in equality of all human beings. 
+
+### Transparency
+
+We believe that transparency is the foundation of any working ecosystem. 
+
+### Human touch / Nature / Selfmade
+
+We believe that it is essential for human beings to do things and produce with our hands.
+
+### Meaning
+
+We believe that human beings want to be connected to something that has a higher meaning than themselves.
+
+### Social 
+
+We believe that human beings are dependend on interaction with other human beings.
+
+### Economy 
+
+We believe that the purpose of economic systems is to match supply and demand.
+
 
 ### Technology
 
-We believe .... 
+We believe that we are systemically intertwined with technology and will are not able to end technology or roll back developments without considerable cost. 
 
-We also have created something that could be described as an [entirely new species](https://en.wikipedia.org/wiki/What_Technology_Wants) that is developing a emergent properties of its own: technology. It has helped us in not only solving the mentioned problems, but also allowing us as the human race to multiply to an extent that would consume multiple planets without the help of technology. 
+### Moores' Law
 
-During the history of technology, it has taken over more and more of what we used to do as humans for the simple reason that it was better at those things than us. First, it took over tasks that required physical power, currently it is beginning to take over cognitive tasks of problem solving, known as intelligence. This will leave us as human beings with the last frontier that (currently) distinguishes us from machines: consciousness. 
-
-We see a world in which we have used technology to solve the problems we face as humanity but also a world in which the power over the decisions made by those machines resides with humans by means of consciousness and its products: moral and ethics. 
-
-Questions:
-
-- Is it digitisation or technology?
-- Too much in depth ? 
-- It is inevitable (headline)
-
+We believe in exponential growth of computational performance. We do not expect the current computational paradigms to fulfil this, but assume that new paradigms like quantum computing will not only increase the overall performance but also help to explore entirely new ways of thinking about computation. 
 
 ### Exponential growth
 
-We believe in exponential growth of computational performance. We do not expect the current computational paradigms to fulfil this, but assume that new paradigms like quantum computing will not only increase the overall performance but also help to explore entirely new ways of thinking about computation. 
+We believe that technologies like CrispR, Blockchain, Robots, Bots, AI, VR, Augmented Reality, and so on all inherit from Moores' Law and therefor also follow exponential growth (and sometimes contribute towards it)
+
 
 ### Automation
 
 We believe that everything that can be automated will be automated. We see this happening in two domains: motor-skills in the form of robots and cognitive skills in the form of artificial intelligence.
 
-### Human touch / Nature / Selfmade
-
-- baking bread
-- hands 
 
 ### Everything is connected
 
 We believe that everything that can be connected, will be connected. While this is easy to imagine for machines, both hard- and software based, we also see this happening for living organism like human beings. This first happens in the form of external sensors, followed by implants.
 
-### Decoupling
+### Time and space dissolves
 
 We believe that we will not only create decoupling of time by allowing asynchronous communication over networks, but even extend this into the realm of experience and hardware by technology like virtual reality or 3D-printing.
 
-- time/space dissolves (vr / brainpool / 3d / etc) 
-- negative aspects missing (?) 
-
-
-### Human interaction
-
-- we need other people 
-- social 
 
 ### Trust is institutionalised
 
@@ -77,58 +82,57 @@ We believe that we will be able to modify the plan for life in living organisms 
 
 We believe that energy production will be fully decentralised and the cost of energy will be close to zero or zero. 
 
-### Economy 
-
-We believe that the purpose of economic systems is to match supply and demand.
-
-### Meaning
-
-- human beings want to do something that has a higher meaning
-
-### Equality
-
-### Transparency
 
 
-## Milk and Honey > this is the future we want to work for
+
+## Milk and Honey:  ***Sketches of the future we want to work for***
 
 ### Economic System
+> This domain describes how a society produces and then distributes its limited resources.
 
-### Political Sytem
+Machines keep and index of all available resources on the planet. Where possible, like in agriculture, they also actively produce resources. The energy needed for the machines to function is fully renewable and sustainable and its sources are being cared for and extended as needed by machines. 
 
-### Society 
+The also know how to create consumable goods from resources either by means of robotic production, genetic engineering or some form or 3D printing. 
 
-### Ethics / Morality
+And they can distribute these goods across the globe autonomously to the place where they are needed. 
 
-### Legal
+They calculate how to distribute the resources based on signals they receive directly from living and inanimate entities. The source of the signal are both hard - mechanical or biological markers - as well as soft - system state of a software or a brain. 
 
-### Transport
+There is no need for work in the sense of of the late 20th century. All human activity is concentrated on governance, culture and social interaction.
 
-### How we live / Housing
+Since the supply and demand is handled extremely efficiently, to the individual it feels like resources were abundant.
 
-### Health 
+### State or Political System
+> This domain describes the institutions in a particular society that have a legitimate monopoly on violence, force, and power and thus can organize the society.   
 
-### 
+Since the economy is truly global, the governance must be global as well. The machines that manage our global economy need steering by means of binding codified contracts. These contracts must be created and changed by humans. The discourse that creates the foundations of these contracts is open to everyone on the planet. We are assisted by machines in making sense of the enormous data we are collecting from various inputs such as speech, written text and sentiment collected directly from our brains. 
+The results are fed back into systems that form contracts for the machines that are tested against a human created set of tests to ensure they do what they were intended to do. 
+
+Disputes between people are handled in a similar fashion. Judges are no single people, but a wide range of people from all over the globe who receive all data associated with the dispute - except the identity of the people involved -  and are assisted by machines in their personal sense-making. They feed back their verdict into an algorithm that processes all incoming verdicts. This algorithm has been created in a similar fashion as the algorithms that steer our economy. 
+
+### Cultural System
+> The stores of information, including the imagery and media of expression that binds a group, that are passed through generations. The cultural system of a society creates a sense of meaning; a vision that allows humans to understand the past, present, and future, and their role in time/place.    
+
+We spend our time mostly in participating in our global politcal system, socialising with other beings, learning new things and expressing ourselves.
+
+Since we are all interconnected with all other human beings and machines on the planet we not only have the possibility to interact with all of them, but also to create new forms of expression all with the aim of understanding ourselves better and giving other entities the chance to understand us better.
+
+The interactions and expression can both take place in the physical and the digital space. We can transition smoothly between the two and can distinguish between the two. Especially when it comes to fulfilling needs that can only be fulfilled in one of these spaces, we are very clear about these distinctions. 
+
+A core element of our culture is that everyone knows exactly what her current main objective in live is. Everyone is free to change their objective at any given moment in time, but it is well defined, articlulated and public.
+
+### Social System
+> How we live, learn, raise our children 
+
+Everyone on the planet has access to a comfortable home with sanitation, running water and electricity to run appliances for cooking, cooling, warming, etc.    
+While these homes are highly individual, they are also extremely adaptable to the current circumstances of their inhabtiants. If additional space is needed, it is easy to add - and just as easy to remove if not needed anymore. The entire space can also be transferred easily to other places on the planet or onto other places in the universe where people live.
+
+Learning is not something that is artificially limited to certain times in a persons live. Everyone learns constantly and shares their knowledge with other people in order to increase everyones shared knowledge. This is reflected in the way we learn. We have places we can go to in order to have assistance by other people that already know what we want to learn. These places can be in the digital or physical space. We are assisted by machines in helping us understand what foundations we must lay down in order to obtain the knowledge or skill we want to acquire. This starts at a very early age with reading, writing, calculating and other basic skills needed for building a wide array of knowledge.
+
+We can decide on a very individual basis on how we want to live, given that we don't inflict pain on anyone else. While the society is very egalitarian, it is also highly individual.
 
 
-### BACKLOG:
+## THE CANARY IN PARADISE: ***An early warning system for dystopia***
 
-We will have handed over much of the organisation of the world to machines. This essentially has replaced all other forms of economic systems. This works because energy is being produced from sustainable sources, close to where it is consumed at zero cost. It also works because machines have not only surpassed human motor-skills and power but also much of our cognitive skills. And above all the machines not only have a full index of all resources on the planet, but also have the relevant information on the demand by a ubiquitous network of sensors. 
+> There are a wide range of possible futures. Some of which are undesireable from our point of view. Instead of describing these, we describe the most important warning signals of things that potentially would lead into this kind of future.
 
-We will be connected to each other and the machines by a ubiquitous network of mind machine interfaces. This connection serves multiple purposes.   
-On the one hand it creates a new form of higher consciousness by connection all minds of the world that can be used to control and direct the intelligent machines. This includes directing and redirecting the system of fitness functions we use to govern the planet, the cognitive machines and us. 
-It also allows us to signal needs and desires to the machines as one form of informational input to solve as part of the economic system.
-
-- how do people learn?
-- what do people do all day?
-- how is death and reproduction managed when it becomes almost impossible to die of natural causes?
-
-And above all we will do this on multiple planets.
-
-## CANARY (HELL? Do we need a hell?)
-
-- we don't describe it
-- but we know it can go horribly wrong
-- there is a short window of opportunity
-- early warning system
-- CANARY 

@@ -46,9 +46,14 @@ We believe that the purpose of economic systems is to match supply and demand.
 
 We believe that we are systemically intertwined with technology and will are not able to end technology or roll back developments without considerable cost. 
 
-### Exponential growth
+### Moores' Law
 
 We believe in exponential growth of computational performance. We do not expect the current computational paradigms to fulfil this, but assume that new paradigms like quantum computing will not only increase the overall performance but also help to explore entirely new ways of thinking about computation. 
+
+### Exponential growth
+
+We believe that technologies like CrispR, Blockchain, Robots, Bots, AI, VR, Augmented Reality, and so on all inherit from Moores' Law and therefor also follow exponential growth (and sometimes contribute towards it)
+
 
 ### Automation
 
@@ -116,14 +121,15 @@ The interactions and expression can both take place in the physical and the digi
 
 A core element of our culture is that everyone knows exactly what her current main objective in live is. Everyone is free to change their objective at any given moment in time, but it is well defined, articlulated and public.
 
-### Family System
+### Social System
 > How we live, learn, raise our children 
 
 Everyone on the planet has access to a comfortable home with sanitation, running water and electricity to run appliances for cooking, cooling, warming, etc.    
 While these homes are highly individual, they are also extremely adaptable to the current circumstances of their inhabtiants. If additional space is needed, it is easy to add - and just as easy to remove if not needed anymore. The entire space can also be transferred easily to other places on the planet or onto other places in the universe where people live.
 
-Learning is not something that is artificially limited to certain times in a persons live. Everyone learns constanstly and shares their knowledge with other people in order to increase everyones shared knowledge. This is reflected in the way we learn. We have places we can go to in order to have assistance by other people that already know what we want to learn. These places can be in the digital or physical space. We are assisted by machines in helping us understand what foundations we must lay down in order to obtain the knowledge or skill we want to acquire. This starts at a very early age with reading, writing, calculating and other basic skills needed for building a wide array of knowledge.
+Learning is not something that is artificially limited to certain times in a persons live. Everyone learns constantly and shares their knowledge with other people in order to increase everyones shared knowledge. This is reflected in the way we learn. We have places we can go to in order to have assistance by other people that already know what we want to learn. These places can be in the digital or physical space. We are assisted by machines in helping us understand what foundations we must lay down in order to obtain the knowledge or skill we want to acquire. This starts at a very early age with reading, writing, calculating and other basic skills needed for building a wide array of knowledge.
 
+We can decide on a very individual basis on how we want to live, given that we don't inflict pain on anyone else. While the society is very egalitarian, it is also highly individual.
 
 
 ## THE CANARY IN PARADISE: ***An early warning system for dystopia***
